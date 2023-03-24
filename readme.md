@@ -45,4 +45,8 @@ ${resource_type.lable.varname}
   - reconcilation -- configuration drift
   - sensitive info
   - 
-## 
+## Terraform Basic Commands
+- init
+- plan
+- apply
+- destroy
