@@ -4,7 +4,11 @@
   - Community
 
 ## Variables
-
+  - variable.tf file
+  - TF_VARS_filename
+  - .tfvars 
+  - .auto.tfvars
+  
 ## Variable Precedence
   - Environment Variables
   - .tfvars file
