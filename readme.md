@@ -1,4 +1,7 @@
 ## Type of Provisioners
+  - Officials
+  - Partners
+  - Community
 
 ## Variables
 
