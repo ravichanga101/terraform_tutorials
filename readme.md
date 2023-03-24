@@ -17,6 +17,10 @@
 
 ## output
 
+show on cmd after apply
+export to other system
+terraform output  cmd
+
 ## reference expression
 
 ${resource_type.lable.varname}
