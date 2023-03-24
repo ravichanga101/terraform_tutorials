@@ -1,3 +1,10 @@
+## Configuration Files
+- variables.tf
+- outputs.tf
+- provider.tf
+- xyz.ftvars
+- xyz.auto.tfvars
+- 
 ## Type of Provisioners
   - Officials
   - Partners
@@ -34,7 +41,7 @@ ${resource_type.lable.varname}
 
 ## Terraform State File .tfstate
   - order in which resources to be delete / depends on 
-  - performance
+  - performance / --refresh=false
   - reconcilation -- configuration drift
   - sensitive info
   - 
