@@ -50,3 +50,10 @@ ${resource_type.lable.varname}
 - plan
 - apply
 - destroy
+
+
+## Configuration Drift
+
+## terraform fmt
+## terraform refresh
+## terraform validate
