@@ -57,3 +57,14 @@ ${resource_type.lable.varname}
 ## terraform fmt
 ## terraform refresh
 ## terraform validate
+
+## Mutable Infrastructure
+
+## Topics
+  - Infra as Code(IaC)
+
+## lifecycle rules
+- create before destroy
+- prevent destroy
+- ignore changes
+- 
