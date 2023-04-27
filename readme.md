@@ -78,5 +78,6 @@ ${resource_type.lable.varname}
 - Env variables TF_LOGS_PATH="path"
 
 ## Terraform IMPORT - existing infrastructure
+- only statefile will update
 - 
  
