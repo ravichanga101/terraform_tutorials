@@ -67,4 +67,16 @@ ${resource_type.lable.varname}
 - create before destroy
 - prevent destroy
 - ignore changes
+
+
+## Taint
+-taint
+-untaint
+
+## Debugging
+- Log Levels TF_LOGS=TRACE
+- Env variables TF_LOGS_PATH="path"
+
+## Terraform IMPORT - existing infrastructure
 - 
+ 
