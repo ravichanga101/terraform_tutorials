@@ -79,5 +79,10 @@ ${resource_type.lable.varname}
 
 ## Terraform IMPORT - existing infrastructure
 - only statefile will update
-- 
- 
+
+
+## Terraform Modules
+- reuse configuration
+- module keyword
+- source argument
+- repository of module
