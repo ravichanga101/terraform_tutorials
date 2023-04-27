@@ -86,3 +86,20 @@ ${resource_type.lable.varname}
 - module keyword
 - source argument
 - repository of module
+
+## Terraform Function
+- file()
+- length()
+- toset()
+- terraform console
+- Numeric function
+- String Function
+- Type Conversion Function
+- Collection Function
+- split(),join(),index(), element(), contains(),keys(),values(),lookup()
+
+## operators and Expression 
+
+
+## Terraform Workshpaces
+- 
